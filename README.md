@@ -31,7 +31,12 @@ Unique Links using [Tikalinkextract](https://github.com/httpreserve/tikalinkextr
 
 ## IA Data
 
-- Latest time the IA first archived a page from this site: 31 October 1996
+- Earliest time the IA first archived a page from this site: 31 October 1996
+- Latest time the IA first archived a page from this site: 16 April 2015
+
+      - http://www.tkqlhce.com/click-1772197-2831550
+      - http://www.digden.net/index.php?affid=MDHP2
+
 - Last IA archived page: 05 July 2017
 
 ## Response Codes and Counts
